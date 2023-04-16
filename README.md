@@ -1,2 +1,2 @@
 # hangman_game
-Hangman Game pure C++ 
+Console Based Hangman Game pure C++ 
